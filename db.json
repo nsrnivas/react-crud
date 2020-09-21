@@ -1,0 +1,50 @@
+{
+  "employees": [
+    {
+      "empId": "Ce044",
+      "empName": "Srinivas kandula",
+      "empEmail": "cnuchowdary007@gmal.com",
+      "empMobileNumber": "456346349",
+      "empAadhar": "2345235234",
+      "empPancard": "sdgsdw453",
+      "empBankName": "hdfc",
+      "empBankAcNumber": "322345234523",
+      "empBankIfsc": "asfdsadfasfdsad",
+      "id": 1
+    },
+    {
+      "empId": "432562",
+      "empName": "asfdds",
+      "empEmail": "asdfas@gmail.com",
+      "empMobileNumber": "346346542",
+      "empAadhar": "343463",
+      "empPancard": "dfdsfgtre3",
+      "empBankName": "DSF",
+      "empBankAcNumber": "DFSDQFDS",
+      "empBankIfsc": "FDSDSFSG",
+      "id": 2
+    },
+    {
+      "empId": "VXCZV",
+      "empName": "SDFSDF",
+      "empEmail": "dsadf@gmail.com",
+      "empMobileNumber": "sdfsadqasd",
+      "empAadhar": "DFVBAV",
+      "empPancard": "ALDNVBASL",
+      "empBankName": "AVNLqnew",
+      "empBankAcNumber": "dmandf",
+      "empBankIfsc": "manf",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
